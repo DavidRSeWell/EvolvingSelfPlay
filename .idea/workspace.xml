@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1670cca-0a97-4321-85fd-764a6e383c0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iykc8mVhI2Q8ex05IN11w7jb0T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.ESP">
+    <configuration name="ESP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EvolvingSelfPlay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ESP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="keras_dqn_exmple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EvolvingSelfPlay" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/keras_dqn_exmple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ESP" />
+        <item itemvalue="Python.keras_dqn_exmple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1670cca-0a97-4321-85fd-764a6e383c0e" name="Default Changelist" comment="" />
+      <created>1602887296136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602887296136</updated>
+      <workItem from="1602887303539" duration="2760000" />
+      <workItem from="1602978941883" duration="2902000" />
+      <workItem from="1603508457859" duration="11123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DS - add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="DS - add gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1164" y="392" key="#xdebugger.evaluate" timestamp="1603596962561">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1164" y="392" key="#xdebugger.evaluate/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603596962561" />
+    <state x="517" y="332" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1603510140434" />
+    <state x="-1172" y="302" key="FileChooserDialogImpl" timestamp="1602887941284">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1172" y="302" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1602887941284" />
+    <state width="1920" height="401" key="GridCell.Tab.0.bottom" timestamp="1603599280915">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="401" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603599280915" />
+    <state width="1440" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603586447334" />
+    <state width="1920" height="401" key="GridCell.Tab.0.center" timestamp="1603599280914">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="401" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603599280914" />
+    <state width="1440" height="312" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603586447334" />
+    <state width="1920" height="401" key="GridCell.Tab.0.left" timestamp="1603599280913">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="401" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603599280913" />
+    <state width="1440" height="312" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603586447333" />
+    <state width="1920" height="401" key="GridCell.Tab.0.right" timestamp="1603599280915">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="401" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603599280915" />
+    <state width="1440" height="312" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603586447334" />
+    <state width="1920" height="312" key="GridCell.Tab.1.bottom" timestamp="1603597052378">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="312" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603597052378" />
+    <state width="1440" height="312" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603586445419" />
+    <state width="1440" height="521" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602979476712" />
+    <state width="1920" height="312" key="GridCell.Tab.1.center" timestamp="1603597052377">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="312" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603597052377" />
+    <state width="1440" height="312" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603586445418" />
+    <state width="1440" height="521" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1602979476711" />
+    <state width="1920" height="312" key="GridCell.Tab.1.left" timestamp="1603597052376">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="312" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603597052376" />
+    <state width="1440" height="312" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603586445417" />
+    <state width="1440" height="521" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1602979476710" />
+    <state width="1920" height="312" key="GridCell.Tab.1.right" timestamp="1603597052377">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="312" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603597052377" />
+    <state width="1440" height="312" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603586445418" />
+    <state width="1440" height="521" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1602979476711" />
+    <state x="-1451" y="179" key="SettingsEditor" timestamp="1602888646370">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1451" y="179" key="SettingsEditor/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1602888646370" />
+    <state width="667" height="534" key="SwitcherDM" timestamp="1603595692154">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="667" height="534" key="SwitcherDM/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603595692154" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1603586933913" />
+    <state x="-1820" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603595742670">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1820" y="100" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1920.1080/0.0.1440.900@-1920.0.1920.1080" timestamp="1603595742670" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EvolvingSelfPlay$keras_dqn_exmple.coverage" NAME="keras_dqn_exmple Coverage Results" MODIFIED="1602888893488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EvolvingSelfPlay$ESP.coverage" NAME="ESP Coverage Results" MODIFIED="1603598784053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
